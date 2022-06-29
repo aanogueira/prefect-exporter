@@ -1,0 +1,9 @@
+chart/
+.git
+.editorconfig
+.dockerfile
+.gitignore
+LICENSE
+Makefile
+README.md
+dashboard.json
